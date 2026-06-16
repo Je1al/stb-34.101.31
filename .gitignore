@@ -20,9 +20,9 @@ Makefile
 *.dylib
 *.dll
 *.exe
-belt
-belt-cli
-belt-tests
+/belt
+/belt-cli
+/belt-tests
 
 # Editor / OS noise
 .idea/
